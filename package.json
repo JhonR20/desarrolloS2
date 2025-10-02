@@ -1,0 +1,17 @@
+{
+  "name": "clase-1",
+  "version": "1.0.0",
+  "main": "dist/E_clase01.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/E_clase01.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
