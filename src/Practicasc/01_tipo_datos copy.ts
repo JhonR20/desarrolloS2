@@ -20,3 +20,4 @@ let ejemploCadena:string = '';
 let ejemploNumero:number = '';
 */
 
+export{};
